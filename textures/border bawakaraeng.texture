@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "border bawakaraeng",
+  "identifier": "texture:303-7181d739-0ff0-44dd-916d-a10c194bc374",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3e324e7bdaf4ba8e2d30b433ab345bbf",
+  "assetLocator": "textures/border bawakaraeng.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3e324e7bdaf4ba8e2d30b433ab345bbf",
+      "colorCount": 5025,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.5871292345325839,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}
